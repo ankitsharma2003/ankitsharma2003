@@ -1,6 +1,6 @@
 ## Hi, I'm Ankit Sharma 👋
 
-Backend Engineer (Node.js) from New Delhi, India. I build production web applications with **Node.js**, **Express.js**, **MySQL** and **PostgreSQL**, and deploy them on **AWS**.
+Software Engineer from New Delhi, India. I build production web applications with **Node.js**, **Express.js**, **MySQL** and **PostgreSQL**, and deploy them on **AWS**.
 
 Currently a Software Engineer at **Yapita Health**, working on Curefy.app, a white-label healthcare CRM.
 
