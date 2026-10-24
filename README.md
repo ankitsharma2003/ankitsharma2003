@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Ankit Sharma 👋
 
-<!--
-**ankitsharma2003/ankitsharma2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer (Node.js) from New Delhi, India. I build production web applications with **Node.js**, **Express.js**, **MySQL** and **PostgreSQL**, and deploy them on **AWS**.
 
-Here are some ideas to get you started:
+Currently a Software Engineer at **Yapita Health**, working on Curefy.app, a white-label healthcare CRM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- REST API design, authentication and role-based access
+- Database performance: fixing N+1 queries, indexing, query optimisation
+- Redis caching, BullMQ job queues and webhooks
+- AWS deployments with Nginx and GitHub Actions CI/CD
+- Monitoring with CloudWatch, Sentry and New Relic
+
+### Tech stack
+
+- **Backend:** Node.js, Express.js, Ruby on Rails
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Cloud:** AWS (EC2, RDS, S3, CloudFront, Route 53, SQS, SNS, SES, CloudWatch, Secrets Manager)
+- **DevOps:** GitHub Actions, Nginx
+- **Frontend:** React.js, Next.js
+
+### Connect with me
+
+[LinkedIn](https://linkedin.com/in/ankit-sharma-70445b229) · [Email](mailto:ankit958240@gmail.com)
