@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ankit Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Node.js;Building+fast%2C+scalable+REST+APIs;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+AWS" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Node.js;Building+fast%2C+scalable+REST+APIs;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+AWS" alt="Typing intro" />
 </p>
 
 <p align="center">
